@@ -1,4 +1,5 @@
 # A very short introduction to R (and statistics)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulHasselkuss/intro-to-r) [![License](https://img.shields.io/github/license/paulHasselkuss/intro-to-r)](LICENSE.txt)
 
 This repository contains Jupyter notebooks for a very short introduction to R and statistics (in German).
 
