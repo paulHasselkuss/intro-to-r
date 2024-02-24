@@ -13,7 +13,7 @@ The course consists of five notebooks:
 * The first notebook explains how to use the notebooks and introduces R.
 * The second notebook introduces variables and functions.
 * The third notebook explains how data can be loaded into R and how R can be used to create different plots.
-* The fourth notebook introduces summary statistics and confidence interviews
+* The fourth notebook introduces summary statistics and confidence intervals
 * The fifth and final notebook explains p-values and (simple) linear regression.
 
 ## Future Plans
